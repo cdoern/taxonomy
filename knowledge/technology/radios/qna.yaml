@@ -1,0 +1,327 @@
+---
+created_by: cdoern
+version: 3
+domain: radios
+seed_examples:
+  - context: |
+      The Elecraft KH1 is a pocket-sized, 40/30/20/17/15 meter, low-power CW
+      transceiver optimized for handheld as well as table-top operation.
+
+      The transceiver itself weighs only 6 oz.
+
+      (0.17 kg); with internal battery and all options installed, total weight is 13 oz. (0.36 kg).
+
+      This allows it to be operated HT-style indefinitely without causing arm or wrist fatigue.
+
+      It's also an ideal backup rig, requiring little packing space.
+
+
+      The KH1's unique form-factor provides multiple advantages for field operation:
+
+
+      USER INTERFACE Both the knobs and optional keyer paddle (KHPD1) are at the lower end of the transceiver.
+
+      This is ideal when you're sitting or standing, holding the radio with one hand
+
+      while operating it with the other. The four pushbutton switches are close by, aligned with LCD text fields.
+
+
+      FIELD LOGGING The KHLOG1 fold-out log tray solves one of the most vexing problems with SOTA, HF Pack,
+
+      and general field operation: how to conveniently log contacts, in any situation.
+
+      The tray can be installed on either side of the radio, facilitating left- or right-handed use,
+
+      and protects the front panel when closed. Filled log sheets can be moved
+
+      to the bottom of the stack with one hand..
+
+
+      BUILT-IN WHIP The KHATU1 antenna tuner comes with a modified top panel that embodies a whip mounting screw,
+
+      loading coil, and band-selection switch for use
+
+      on 20/17/15 meters (and on 30 meters with reduced efficiency).
+
+      The supplied telescoping whip clips to the side of the rig when not in use.
+
+      The ATU matches a wide range of loads, and works with the BNC jack as well as the whip.
+    questions_and_answers:
+      - question: |
+          What bands does the KH1 operate on primarily?
+        answer: The Elecraft KH1 officially supports the 40, 30, 20, 17, and 15 meter
+          bands.
+      - question: |
+          How much does the KH1 weigh? How about including other options?
+        answer: The radio (transciever) only weight 6 ounces itself. With all add ons,
+          it weight 13 oz. This is a very small, portable, and handheld CW
+          option.
+      - question: |
+          What makes the KH1 an ideal field radio besides its light weight?
+        answer: The radio has a great user interface with 4 main menu buttons and an
+          optional CW keyer that can be inserted directly into the bottom of the
+          transceiver. The display is LCD and has clearly readable text fields
+          as well. The radio comes with a logging tray (KHLOG1). This solves one
+          of the largest problems SOTA/POTA operators hit, logging their QSOs
+          when they are in the field. Lastly, the built in whip antenna and
+          tuner (KHATU1) allow operators to connect the supplied whip directly
+          to the body of the radio with automatic tuning for 20, 17, and 15
+          Meters.
+      - question: |
+          Does the ATU work only with the provided telescopic whip antenna?
+        answer: No! the ATU (the antenna tuner) works with the BNC jack as well. The
+          radio has two points to connect antennas, one for the whip and another
+          for any other SOTA/POTA antennas using a BNC connector.
+  - context: |
+      The KH1 covers the full frequency range of each ham band, with power
+      output of 5 watts.
+
+      Many hours of field operation are ensured by an internal 2.6 AH, 11 V Li-ion battery (KXBT2).
+
+      An internal charger (KHIBC1) keeps the battery topped off, ready to go when you are.
+
+
+      The KH1 has many other features, including:
+
+
+      · small speaker
+
+
+      · optional right-angle adapter for the whip (model #KHRA1)
+
+
+      · real-time clock (RTC), including both time and date
+
+
+      · SWL band: 6.7 - 22.0 MHz (uses SSB mode to copy AM); ATU can be manually tuned to peak signals
+
+
+      · CW text decode/display, plus 50 K of EEPROM for logging TX text and CW-entered field notes
+
+
+      · VFO locking; RIT and XIT
+
+
+      · SSB/CW cross-mode operation
+
+
+      · Easy-to-use scan/mini-pan function for signal hunting
+
+
+      · firmware upgrades via supplied USB cable and KH1 Utility application
+
+
+      · full remote control for specialized applications
+
+
+      · custom, zippered carrying case (ES20) with utility pockets (pg. 13)
+    questions_and_answers:
+      - question: |
+          What is the output power of the KH1?
+        answer: The Elecraft KH1 operates at 5 watts.
+      - question: |
+          What is the battery situation like in the KH1?
+        answer: with the KXBT2 addition you get a 2.6 Amp Hour, 11 V Lithium Ion
+          Battery. There is also an internal charger for the radio.
+      - question: |
+          What are some other features the radio has? How can I make my
+          experience using it easier?
+        answer: The radio has many more features at your fingertips. Here are a few! You
+          can get the KHRA1 add on to mount the whip antenna at a right angle
+          which is great for table top operation. The radio has a built in
+          speaker making the use of headphones optional! There is an RTC (real
+          time clock) that you can synchronize when needed. You can scan over
+          the various bands looking for CW signals. The radio can listen in SSB
+          (single side band) mode meaning you can hear audio not just CW tones.
+          It can then send tones on SSB using CW. You can update the firmware
+          using the provided USB to Data cable.
+  - context: |
+      ## EXTERNAL SUPPLY
+
+
+      An 8-15 V low-noise power supply, solar panel, or battery can be connected to the external supply jack on the left side.
+
+      The center pin is (+), as is the white-striped wire on the supplied power cable. The plug can be a Switchcraft model
+
+      S760 or similar (2.1 mm pin aperture, 5.5 mm barrel diameter).
+
+
+      Power output varies with supply voltage. On all bands, maximum power output when running from 11 V
+
+      is typically 5 watts into a 50 ohm load. (See MENU:ADJ PWR .)
+
+
+      The internal and external DC jacks are identical, and are diode-isolated from each other.
+
+      The jack with the higher voltage will power the transceiver. For example,
+
+      if you have an internal battery pack plugged in that measures 10.5 V, and an external supply also
+
+      plugged in that measures 12 V, the external source will supply power. (To display supply voltage and current,
+
+      see MENU:DISP MODE . A more accurate display of internal battery voltage, along with an amp-hours meter,
+
+      is also available. See MENU:VBAT .)
+
+
+      ## CHARGE STATUS LED
+
+
+      A small LED near the power switch provides power-on and charge status indications, as follows.
+
+
+      ## With a standard KHDC1 DC input module installed (no charger module):
+
+
+      · LED is GREEN when the KH1 is ON; UNLIT when it is OFF. (Regardless of which DC jack is in use.)
+
+
+      ## With a KHIBC1 internal battery charger installed:
+
+
+      · With no external supply connected: the LED is GREEN when the KH1 is ON; UNLIT when it is OFF.
+
+
+      · With an external operating/charging supply connected: the LED is RED when the radio is OFF and charging;
+
+      ORANGE when the radio is ON and charging; GREEN when charge is complete and the radio is ON; UNLIT when charge is
+
+      complete and the radio is OFF.
+
+
+      See important cautions on next page regarding charging the battery internally or externally.
+
+
+      ## INTERNAL BATTERY
+
+
+      The KH1 is designed to use an Elecraft KXBT2 lithium-ion battery pack. This pack is rated at 11 V, 2.6 Ah. Thanks to the KH1's low receive-mode current drain (~50 to 80 mA),
+
+      the KXBT2 can provide full power output (5 watts) for 4 to 12 hours of typical QRP operation, and up to 50 hours receive-only.
+
+
+      The battery pack can be internally recharged at a C/10 rate (~250 mA) using a KHIBC1 internal charger. In this case, charging voltage (nominally ~14 V, minimum 12 V)
+
+      is provided by the same supply that operates the radio. A KXBC2 external fast-charger can also be used (see cautions below.)
+
+
+      CAUTION: IF A KHIBC1 INTERNAL BATTERY CHARGER IS INSTALLED, DO NOT USE ANY BATTERY PACK OTHER THAN THE KXBT2 , which has built-in protection circuitry.
+
+      The use of an incompatible battery pack may be unsafe and may void the warranty.
+
+
+      CAUTION: THE BATTERY PACK MUST BE REMOVED FOR RECHARGING WHEN USING A KXBC2 FAST CHARGER. Fast chargers generate RFI, and are NOT suitable for internal charging or for radio operation.
+    questions_and_answers:
+      - question: |
+          What is the reccomended type of power supply needed to use the KH1?
+        answer: Any type of power supply providing 8-15V of power. One thing to note is
+          that if using the provided wire, the portion with the white stripe is
+          the positive end.
+      - question: |
+          How do I know if the KH1 is charging or being supplied with power?
+        answer: There is an LED near the power switch on the side of the radio. If you
+          are just providing power to the radio (not charging it), Green means
+          on while UNLIT means there is no power. IF using the KCIBC1 internal
+          battery charger, Green LED indicates power on, UNLIT indicates off,
+          RED indicates off and charging, ORANGE indicates on and charging.
+      - question: |
+          How long can the internal battery last on the KH1?
+        answer: The KXBT2 can last 4-12 hours on typical send/receive QRP. However in
+          receive only it can last up to 50 hrs.
+      - question: |
+          Is there anything I need to know about this battery, charging,
+          mantainence?
+        answer: Yes, the KXBT2 must be used if the KHIBC1 internal charger is installed.
+          This is because the KXBT2 has built in protection circuitry. You can
+          void your warranty otherwise. Also, if using Elecraft's fast charger
+          (KXBC2), the battery must be removed from the radio for charging. This
+          is because the fast charget emits RFI.
+  - context: |
+      ## To enhance communications effectiveness when using a whip:
+
+      · ALWAYS use a counterpoise wire. Without one, your transmitted signal strength will be as much as 20 to 30 dB lower at receiving stations, even if you get an apparent good match using the ATU.
+
+      · Bring extra wire for outings when band conditions are rough. If there are trees available, a random-wire antenna can be quickly deployed,
+      then matched using the ATU. A BNC-to-binding post adapter (e.g. Elecraft #BNC-BP) can be used to attach an antenna wire to the BNC jack.
+
+      · Choose locations with an upward slope behind you . This can work as a reflector.
+
+      · Arrange your ground counterpoise wire for greatest benefit. Deploying the wire toward the favored direction often improves signal strength
+      by several dB, as can draping the wire on top of foliage. You can use the ATU to compensate for changes in wire position and terrain.
+
+      · Use the Reverse Beacon Network (RBN). This is a global network of receiving stations that may detect your signal and report it on their website.
+      It's a great tool for optimizing antennas.
+
+      · Try working strong stations first (S7 or higher). While some stations may be strong due to amplification, more often it's because of favorable propagation.
+      Also, they typically use low-loss antennas with gain, making them louder - while allowing them to hear you better as well.
+
+      · Drop in on the QRP "watering holes. " There are QRP calling frequencies, such as 14060.0 kHz, that are used for weak-signal CW work.
+      "HF Pack" operators will often monitor or call on 18157.5 kHz and other standard HF pack frequencies in both SSB or CW modes. Another active
+      group that listens for weak signals is the County Hunters Net , around 14055 kHz.
+
+      · Plan outings around times when band activity is high, including weekday evenings, weekends, and whenever contests are in progress.
+      Contest examples: CQ DX, ARRL CW, and other "majors"; ARRL Field Day, Winter Field Day (WFD) and other contests emphasizing QRP/field operation;
+      and CWT (very active weekday CW operating events put on by the CWops organization).
+
+      · Try SOTA (Summits On The Air) and POTA (Parks On The Air) operation. These activities are very popular. SOTA in particular uses a
+      limited frequency range and in most cases low power. "Chasers" (SOTA) or "hunters" (POTA) will be looking for you, and your outings
+      can be pre-announced using self-spotting tools like RBNhole. Our model KHRA1 right-angle adapter is ideal for POTA/table-top operation. See KHRA1, below.
+    questions_and_answers:
+      - question: |
+          When usign the KH1 with the whip antenna, how can I ensure my signal is heard?
+        answer:
+          You must be using a counterpoise wire with the KH1 when using the whip antenna. The more counterpoise wire the better in worse conditions. You can point your wire in the intended direction as well.
+          It also will help to choose locations with an upward slope behind where you are transmitting.
+      - question: |
+          What is a QRP Watering Hole? How can I use it to my advantage when operating on the KH1?
+        answer:
+          Since the KH1 is a low powered radio, using watering holes also known as QRP calling frequencies can help you. These are frequencies on the different bands used for QRP operators to communicate using weak signals.
+      - question: |
+          How else can I optimize my chance of being heard and making contact when using the KH1 with the whip antenna?
+        answer:
+          There are a few tips you can follow. First, work the strongest stations with a report of 57 or higher. These staions can be louder for various reasons but all of these reasons will allow them to hear you better as well (better equiptment, propogation, etc).
+          You can also operate when the band activity is high (weekends, evenings, contests).
+      - question: |
+          What is the RBN and how can I use it to help my chances of being heard when on the KH1?
+        answer:
+          The RBN or Reverse Beacon Network is a global network of recieving stations which can detect your signal and report information about it on a website. This is a great tool to let you know if you are being heard!
+  - context: |
+      ## ATU TUNING
+
+      Tapping ATU causes the antenna tuner, if installed, to look for the best match to the attached load. You'll hear relays switching for 1 to 4 seconds.
+      The ATU settings are stored on a perband basis and recalled automatically when you change bands.
+
+      If SWR is very high (> 3:1) after matching with the ATU, consider making length or other adjustments to the antenna or counterpoise.
+      Tap ATU again afterward. SWR is shown continuously on a bar graph as you key the transmitter. 1 solid block = close to 1:1, 2 blocks = 2:1, etc.
+      Unfilled blocks indicate half of an SWR unit, so 1 solid and one unfilled would equate to about 1.5:1.
+
+      The miniature ATU module in the KH1 has fewer L and C components than in the Elecraft KX2 and KX3 ATUs.
+      This means it will not always find a very low SWR. In most cases it will be under 3.0, which still ensures
+      excellent power transfer. The transmitter's PA device is very resilient to even higher SWR values,
+      and it can be operated into virtually any load. However, if reflected power is excessive,
+      the KH1 will automatically drop into Low Power mode. (See MENU:ADJ PWR for details on setting power levels.)
+
+      The KH1 ATU does not need a "second-tap within five seconds" feature to try more L-C combinations.
+      The ATU keeps trying until all combinations have been tested, or one is found that provides an SWR of 1:1.
+    questions_and_answers:
+      - question: |
+          How do I know if the ATU on the ELecraft KH1 is not working and what should I do?
+        answer:
+          If your SWR (Standig Wave Ratio) is greater than 3:1 then you should consider modifiying your counterpoise and/or antenna. You can make them longer or shorter (electrically or physically) to see if that helps.
+          There is an SWR graph as you key the transmitter (send data).
+      - question: |
+          How can I engage the ATU and what will happen?
+        answer:
+          Tapping the ATU button triggers the module to best match to the attached load (antenna). You will hear some noises for 1-4 seconds. ATU settings are store per band and automatically applied as you switch bands.
+      - question: |
+          What are some flaws of the KH1 ATU as compared to other elecraft radios?
+        answer:
+          the KH1 tuner has less L and C components than radios like the KX2 and KX3 meaning it may not always find a low SWR. In most scenarios the ATU in the KH1 will find a SWR less than 3 which is good enough. Since this
+          is a CW radio primarily, it is resilient to higher SWR and can be operated on virtually any load.
+document_outline: Information about the Elecraft KH1 CW radio including
+  operation modes, software explanation, and a walkthrough of the hardware.
+document:
+  repo: https://github.com/cdoern/knowledge
+  commit: cacc1b7fb5d9d70c3694a15644e85e66298c50b1
+  patterns:
+    - radio/kh1/kh1.md
